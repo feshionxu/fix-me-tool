@@ -1,2 +1,2 @@
 # fix-me-tool
-to find the comment with string 'FIXME' ,   output line position， and then exit
+to find the comment with string 'FIXME' ,   output line positions， and then exit.
