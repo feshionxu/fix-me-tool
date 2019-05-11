@@ -1,0 +1,26 @@
+{
+  "name": "fix-me-tool",
+  "version": "1.0.0",
+  "description": "to find the comment with string 'FIXME' , output line positions， and then exit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feshionxu/fix-me-tool.git"
+  },
+  "keywords": [
+    "fixme",
+    "FIXME"
+  ],
+  "author": "feshionxu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feshionxu/fix-me-tool/issues"
+  },
+  "homepage": "https://github.com/feshionxu/fix-me-tool#readme",
+  "bin": {
+    "fix-me": "./index.js"
+  }
+}
